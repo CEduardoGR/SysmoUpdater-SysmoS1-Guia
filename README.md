@@ -14,6 +14,15 @@ Guias, manuais, dicas, este repositório será exclusivo para compartilhar infor
 
 ### Demonstração:
 
-[<img align="center" alt="Guia de Instalação" width="720px" src="https://i.imgur.com/BPfUZhE.png" />][guia-instalacao-video]
+[![guia-instalacao-image]][guia-instalacao-video]
 
+
+
+
+[//]: # (Links:)
+
+[guia-instalacao-image]: ./images/video-play.jpeg
 [guia-instalacao-video]: https://drive.google.com/file/d/1EqF_IuVJkX67Xy7sJ9Hsr4_QSLaenap4/view
+
+
+
