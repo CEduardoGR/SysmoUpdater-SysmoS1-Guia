@@ -1,0 +1,1 @@
+- Para realizar a instalação nas estações será somente necessário marcar como estação ao iniciar a instalação do Sysmo Updater e colocar o IP local na seguinte tela.
